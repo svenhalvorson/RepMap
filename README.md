@@ -3,14 +3,14 @@ method might not be intuitive for everyone.
 
 **Example calculations**
 
-1. Representation ratio for Texas in the 1900 House of representatives: 
+1. Representation ratio for Texas in the 1900 House of Representatives: 
  + Texas population = 3,048,710
  + Represented US population = 74,607,225
  + Texas seats = 16
  + Total seats = 386
  + Representation ratio = (16/386)/(3,048,710/74,607,225) = 1.014
 
-2. Utah's relative house power to Texas in 1990 (select Texas on left, hover over Utah)
+2. Utah's relative House power to Texas in 1990 (select Texas on left, hover over Utah)
  + Texas population = 3,048,710
  + Texas seats = 16
  + Utah population = 276,749
