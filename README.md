@@ -1,5 +1,3 @@
-Hi all,
-
 I was interested in looking at the proportional representation in congress so I created [this map](https://public.tableau.com/views/CongressionalPowerMap/CongressionalPowerMap?:embed=y&:display_count=yes&publish=yes&:toolbar=no). I want to add some details here as my
 method might not be intuitive for everyone.
 
