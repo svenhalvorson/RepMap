@@ -15,7 +15,7 @@ method might not be intuitive for everyone.
  + Texas seats = 16
  + Utah population = 276,749
  + Utah seats = 1
- + Relative power = (3,048,710/16)/(276,749/1) = 0.73
+ + Relative power = (3,048,710/16)/(276,749/1) = 0.69
 
 The reason I phrase it as 'Utah's power relative to Texas' but put Utah in the denominator is because
 having a smaller ratio of people to representatives means more power per citizen.
