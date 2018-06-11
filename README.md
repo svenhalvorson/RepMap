@@ -10,7 +10,7 @@ method might not be intuitive for everyone.
  + Total seats = 386
  + Representation ratio = (16/386)/(3,048,710/74,607,225) = 1.014
 
-2. Utah's relative House power to Texas in 1990 (select Texas on left, hover over Utah)
+2. Utah's relative House power to Texas in 1900 (select Texas on left, hover over Utah)
  + Texas population = 3,048,710
  + Texas seats = 16
  + Utah population = 276,749
