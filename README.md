@@ -22,7 +22,7 @@ having a smaller ratio of people to representatives means more power per citizen
 
 **Data Wrangling**
 
-The data comes from [here](https://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population) and [here](https://en.wikipedia.org/wiki/United_States_congressional_apportionment). Here is the [code](https://github.com/svenhalvorson/RepMap/blob/master/scrape_clean.R) used to scrape and transform the data.
+The data comes from [here](https://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population) and [here](https://en.wikipedia.org/wiki/United_States_congressional_apportionment). Here is the [R code](https://github.com/svenhalvorson/RepMap/blob/master/scrape_clean.R) used to scrape and transform the data.
 
 I made a number of choices while collecting the data that should be mentioned:
 
